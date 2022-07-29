@@ -1,2 +1,2 @@
 # node-ci
-## Learning continues integration ci
+## Learning Continuous integration ci
